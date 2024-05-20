@@ -1,0 +1,7 @@
+.App-div {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(112, 224, 255);
+    border: 2px solid rgb(87, 174, 255);
+    color: rgb(255, 255, 255);
+}

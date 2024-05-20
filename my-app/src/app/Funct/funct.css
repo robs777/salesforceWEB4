@@ -26,3 +26,37 @@
   th {
     background-color: #ffffff;
   }
+
+  .funcB button{
+    background-color: #31bdec; 
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid rgb(16, 163, 255);
+  }
+  
+  .funcB button:hover {
+    background-color: #2198b6;
+  }
+
+ .formm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+ 
+ 
+ }
+ .field-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px; 
+  width: 500px;
+  gap: 15px;
+
+}
