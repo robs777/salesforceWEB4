@@ -1,0 +1,121 @@
+.prefo{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.prefo11{
+    margin-top: 25px ;
+    
+}
+
+
+
+.tes{
+    
+    margin: 5px;
+
+}
+.prefogeral{
+    margin-right: 70px;
+}
+.prefogeral h2{
+    color: rgb(9, 21, 94);
+    display: flex;
+    justify-content: center;
+}
+
+.prefogeral ul li{
+    list-style: none;
+    margin-top: 15px;
+    color: rgb(33, 106, 233);
+    
+}
+.prefogeral ul li a{
+    display: flex;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+
+@media (max-width:480px){
+
+    /* PRE FOOTER */
+
+.prefo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    margin: 50px;
+    
+    
+}
+.logoimg{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.mediaimg{
+    display: flex;
+    justify-content: center;
+    
+}
+.centrop{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+.logos {
+    display: flex;
+    flex-direction: column;
+    
+}
+.logos p{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.prefo11{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 10px;
+    
+}
+.prefogeral{
+    margin-top: 20px;
+    margin-right: 0px;
+    
+}
+.prefogeral h2{
+    color: rgb(9, 21, 94);
+    display: flex;
+    justify-content: center;
+}
+
+
+.prefogeral ul li{
+    list-style: none;
+    margin-top: 15px;
+    color: rgb(33, 106, 233);
+    
+}
+
+
+.prefogeral ul li a{
+    display: flex;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+
+}
