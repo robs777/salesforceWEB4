@@ -1,5 +1,28 @@
-.{
-
-
+.fun{
+    background-color: #b5ecff;
+  }
+  
+  .container {
+    max-width: 1400px;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 50px;
     
-}
+  }
+  
+  table {
+    width: 100%;
+    
+   
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 8px;
+    border-bottom: 1px solid #ffffff;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  th {
+    background-color: #ffffff;
+  }
