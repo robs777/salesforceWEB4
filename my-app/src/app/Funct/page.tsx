@@ -3,6 +3,7 @@ import PreFooter from '../PreFooter/page';
 import React, { useState } from 'react';
 import axios from 'axios';
 
+import "./funct.css"
 
 interface Cliente {
   cpf: string;
